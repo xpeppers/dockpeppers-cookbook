@@ -1,2 +1,2 @@
-# boxpeppers-cookbook
-XPeppers Docker host box
+# Boxpeppers Cookbook
+XPeppers Docker host box cookbook
