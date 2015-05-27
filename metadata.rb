@@ -1,4 +1,4 @@
-name 'boxpeppers'
+name 'dockpeppers'
 version '0.1.0'
 supports 'ubuntu', '>= 14.04'
 
